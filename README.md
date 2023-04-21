@@ -1,2 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EriciusX&count_private=true&card_width=400px&line_height=26)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriciusX&hide=qml,javascript,html,css,qmake,assembly,cmake&langs_count=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EriciusX&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EriciusX&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EriciusX&theme=vue&exclude=HTML)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EriciusX&theme=vue&exclude=HTML)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EriciusX&theme=vue)
