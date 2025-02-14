@@ -9,4 +9,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EriciusX&theme=vue)
 
 
-### Thanks for visiting :heart
+### Thanks for visiting :heart:
