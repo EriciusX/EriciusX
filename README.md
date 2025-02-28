@@ -6,7 +6,4 @@
 &nbsp;&nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericiusx&theme=default&exclude=HTML)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericiusx&theme=default)
-
-
 ### Thanks for visiting :heart:
